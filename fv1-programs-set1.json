@@ -1,0 +1,59 @@
+[
+        {
+        "name": "FX/RevRev",
+        "pot0": "-",
+        "pot1": "-",
+        "pot2": "-",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/RevRev.spn"
+    },
+        {
+        "name": "FX/BM-Pi",
+        "pot0": "Gain",
+        "pot1": "Tone",
+        "pot2": "-",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/bm-pi.spn"    
+    },
+        {
+        "name": "FX/DR-Chorus",
+        "pot0": "ChorLev",
+        "pot1": "Rate1",
+        "pot2": "Rate2",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/chorus-dual-rate.spn"    
+    },
+        {
+        "name": "FX/ModEcho",
+        "pot0": "Time",
+        "pot1": "Depth",
+        "pot2": "Level",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/modulated-echo.spn"    
+    },
+        {
+        "name": "FX/St-Pitch",
+        "pot0": "LPitch",
+        "pot1": "RPitch",
+        "pot2": "Delay",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/pitch-transpose-stereo.spn"    
+    },
+        {
+        "name": "FX/Resonator",
+        "pot0": "Freq",
+        "pot1": "Reso(i)",
+        "pot2": "-",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/resonator.spn"    
+    },
+        {
+        "name": "FX/Slcm-Phr",
+        "pot0": "Rate",
+        "pot1": "Sweep",
+        "pot2": "Stages",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/slocum-phaser.spn"    
+    },
+        {
+        "name": "FX/Softclip",
+        "pot0": "Gain",
+        "pot1": "Volume",
+        "pot2": "Tone(i)",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/softclipping_overdrive.spn"    
+    }
+]
+

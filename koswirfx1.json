@@ -1,0 +1,38 @@
+[
+    {
+        "name": "FX/kw-shimmer",
+        "pot0": "Shimmer",
+        "pot1": "Decay",
+        "pot2": "Damping",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-shimmer.spn"
+    },
+    {
+        "name": "FX/kw-chorus",
+        "pot0": "Depth",
+        "pot1": "Rate",
+        "pot2": "HPF",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-chorus.spn"
+    },
+    {
+        "name": "FX/kw-2bndDstr",
+        "pot0": "LowDrv",
+        "pot1": "HighDrv",
+        "pot2": "Xover",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-2band-destructor.spn"
+    },
+        {
+        "name": "FX/kw-4fltrs",
+        "pot0": "2p LpHp",
+        "pot1": "4p LpHp",
+        "pot2": "Reso",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-4filters.spn"
+    },
+        {
+        "name": "FX/kw-reducer",
+        "pot0": "SmpRate",
+        "pot1": "Filter",
+        "pot2": "BitRedu",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-reducer.spn"
+    }
+]
+

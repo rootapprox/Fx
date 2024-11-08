@@ -1,0 +1,31 @@
+[
+        {
+        "name": "FX/St-RM",
+        "pot0": "Blend",
+        "pot1": "Carrier",
+        "pot2": "Chorus",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/stereo-ring-modulators-with-chorus.spn"
+    },
+        {
+        "name": "FX/Tremolo",
+        "pot0": "WaveSh",
+        "pot1": "Depth",
+        "pot2": "Speed",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/tremolo-shapes-reduced.spn"
+    },
+        {
+        "name": "FX/3Delay",
+        "pot0": "Time1",
+        "pot1": "Time2/3",
+        "pot2": "FeedB",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/triple-delay-feedback.spn"
+    },
+        {
+        "name": "FX/Whammy",
+        "pot0": "Pitch",
+        "pot1": "BendRng",
+        "pot2": "-",
+        "url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/whammy.spn"
+    }
+]
+

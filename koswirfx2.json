@@ -1,0 +1,38 @@
+[
+    {
+        "name": "FX/kw-form2",
+        "pot0": "Gender",
+        "pot1": "X",
+        "pot2": "Y",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-formant2.spn"
+    },
+    {
+        "name": "FX/kw-punch",
+        "pot0": "Punch",
+        "pot1": "Shape",
+        "pot2": "Makeup",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-punch.spn"
+    },
+    {
+        "name": "FX/kw-glthvrb",
+        "pot0": "Stutter",
+        "pot1": "VerbDec",
+        "pot2": "GlthOct",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-glthvrb.spn"
+    },
+    {
+        "name": "FX/kw-3crisp",
+        "pot0": "Lows",
+        "pot1": "Mids",
+        "pot2": "Highs",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-3crisp.spn"
+    },
+    {
+        "name": "FX/kw-2split",
+        "pot0": "Xover",
+        "pot1": "Lows",
+        "pot2": "Highs",
+        "url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-2split.spn"
+    }
+]
+
