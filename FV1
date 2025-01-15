@@ -1,0 +1,16 @@
+[
+        {
+        "name": "FX/Rev&Flang",
+        "pot0": "Reverb",
+        "pot1": "Flang/Delay",
+        "pot2": "Lowpass",
+        "url": "https://github.com/rootapprox/FV1/blob/main/dance_ir_fla_l.spn"
+    },
+        {
+        "name": "FX/Rev&Pitch",
+        "pot0": "Reverb",
+        "pot1": "Pitch",
+        "pot2": "Lowpass",
+        "url": "https://github.com/rootapprox/FV1/blob/main/dance_ir_ptz_l.spn"     
+    }
+]
